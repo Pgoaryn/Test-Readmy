@@ -13,8 +13,6 @@
 - [✨ Features](#-features)
 - [🎥 How to Use](#-how-to-use)
 - [🧪 Demo](#-demo)
-- [🔧 Installation](#-installation)
-- [⚙️ Configuration](#-configuration)
 - [🖼 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
 - [🪪 License](#-license)
@@ -36,12 +34,12 @@ Originally created as a side project to explore WebSockets in games, this toolki
 
 ## ✨ Features
 
-✅ User Authentication (Login / Logout)  
-✅ Room-based Networking  
-✅ Real-time Chat System  
-✅ Seamless Map Transitions  
-✅ Persistent Character Data  
-✅ Cross-platform support (Windows/Linux/Mac)
+- ✅ User Authentication (Login / Logout)  
+- 🗺️ Room-based Networking  
+- 💬 Real-time Chat System  
+- 🔄 Seamless Map Transitions  
+- 💾 Persistent Character Data  
+- 🖥️ Cross-platform support (Windows/Linux/Mac)
 
 ---
 
@@ -56,15 +54,45 @@ Originally created as a side project to explore WebSockets in games, this toolki
 ## 🧪 Demo
 
 Ready to play? Test the toolkit’s power in action:  
-🌐 **Live Demo Coming Soon!** (or [host locally](#installation))
+🌐 **Live Demo Coming Soon!**
 
 ---
 
-## 🔧 Installation
+## 🖼 Screenshots
 
-Clone this repository and install dependencies:
+| Login Screen | Gameplay |
+|--------------|----------|
+| ![Login](https://via.placeholder.com/300x200?text=Login+Screen) | ![Game](https://via.placeholder.com/300x200?text=In-Game) |
 
-```bash
-git clone https://github.com/your-username/mmorpg-maker.git
-cd mmorpg-maker
-npm install
+---
+
+## 🤝 Contributing
+
+Contributions welcome! 🛠 Here's how:
+
+1. Fork this repository  
+2. Create a new branch: `git checkout -b my-feature`  
+3. Commit your changes: `git commit -m "Add new feature"`  
+4. Push to your branch: `git push origin my-feature`  
+5. Open a pull request
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more details.
+
+---
+
+## 🪪 License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌐 Social Media
+
+📣 Stay connected and join our community:  
+- 💬 **Discord**: [Join Server](https://discord.gg/your-invite-code)  
+- 📺 **YouTube**: [Your Channel](https://youtube.com/yourchannel)
+
+---
+
+> Made with 💖 by [Your Name](https://github.com/your-username)
