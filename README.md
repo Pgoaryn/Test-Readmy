@@ -90,9 +90,9 @@ See the [LICENSE](LICENSE) file for details.
 ## 🌐 Social Media
 
 📣 Stay connected and join our community:  
-- 💬 **Discord**: [Join Server](https://discord.gg/your-invite-code)  
-- 📺 **YouTube**: [Your Channel](https://youtube.com/yourchannel)
+- 💬 **Discord**: [Join Server](https://discord.gg/vuasuFudjQ)  
+- 📺 **YouTube**: [My Channel](https://youtube.com/@Tendev2d)
 
 ---
 
-> Made with 💖 by [Your Name](https://github.com/your-username)
+> Made with 💖 by [Pgoaryn](https://github.com/Pgoaryn)
