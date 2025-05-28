@@ -2,7 +2,7 @@
 
 > 💡 Create your own online multiplayer RPGs with RPG Maker MV or MZ — powered by **Node.js**, **Colyseus**, and **MongoDB**.
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@Tendev2d)
-[![Discord](https://img.shields.io/discord/1346822805576220755?label=discord&logo=discord&color=5865F2)](https://discord.gg/vuasuFudjQ)
+[![Discord](https://img.shields.io/discord/1346822805576220755?label=discord&logo=discord&color=5865F2)](https://discord.gg/ekkdGH2RxK)
 
 ---
 
@@ -90,7 +90,7 @@ See the [LICENSE](LICENSE) file for details.
 ## 🌐 Social Media
 
 📣 Stay connected and join our community:  
-- 💬 **Discord**: [Join Server](https://discord.gg/vuasuFudjQ)  
+- 💬 **Discord**: [Join Server](https://discord.gg/ekkdGH2RxK)  
 - 📺 **YouTube**: [My Channel](https://youtube.com/@Tendev2d)
 
 ---
