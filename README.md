@@ -1,7 +1,7 @@
 # 🎮 (MMO)RPG Maker MV/MZ Toolkit
 
 > 💡 Create your own online multiplayer RPGs with RPG Maker MV or MZ — powered by **Node.js**, **Colyseus**, and **MongoDB**.
-
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@Tendev2d)
 ![Banner](https://via.placeholder.com/1000x300?text=MMORPG+Maker+MV%2FMZ+Toolkit)
 
 ---
