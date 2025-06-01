@@ -1,4 +1,4 @@
-[![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)]
 
 
 ```ascii
