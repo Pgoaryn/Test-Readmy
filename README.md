@@ -5,10 +5,8 @@ ___  ______  ____________________ _____  ___  ___  ___   _   __ ___________
 | |\/| || |\/| | | | |    /|  __/| | __  | |\/| ||  _  ||    \ |  __||    / 
 | |  | || |  | \ \_/ / |\ \| |   | |_\ \ | |  | || | | || |\  \| |___| |\ \ 
 \_|  |_/\_|  |_/\___/\_| \_\_|    \____/ \_|  |_/\_| |_/\_| \_/\____/\_| \_|
-              bt Ten
+              🎮 (MMO)RPG Maker MV/MZ Toolkit
 ```
-# 🎮 (MMO)RPG Maker MV/MZ Toolkit
-
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@Tendev2d)
 [![Discord](https://img.shields.io/discord/1346822805576220755?label=discord&logo=discord&color=5865F2)](https://discord.gg/ekkdGH2RxK)
 
