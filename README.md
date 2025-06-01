@@ -1,5 +1,6 @@
 ![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)
-
+![Built by Developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![Build with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 ```ascii
 ___  ______  ____________________ _____  ___  ___  ___   _   __ ___________ 
@@ -9,6 +10,10 @@ ___  ______  ____________________ _____  ___  ___  ___   _   __ ___________
 | |  | || |  | \ \_/ / |\ \| |   | |_\ \ | |  | || | | || |\  \| |___| |\ \ 
 \_|  |_/\_|  |_/\___/\_| \_\_|    \____/ \_|  |_/\_| |_/\_| \_/\____/\_| \_|
 ```
+
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
+![MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+
 #🎮 (MMO)RPG Maker MV/MZ Toolkit
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@Tendev2d)
