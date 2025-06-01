@@ -1,3 +1,6 @@
+[![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+
 ```ascii
 ___  ______  ____________________ _____  ___  ___  ___   _   __ ___________ 
 |  \/  ||  \/  |  _  | ___ \ ___ \  __ \ |  \/  | / _ \ | | / /|  ___| ___ \
