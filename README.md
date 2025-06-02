@@ -3,15 +3,15 @@
 ![Build with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 ```ascii
-___  ______  ____________________ _____  ___  ___  ___   _   __ ___________ 
-|  \/  ||  \/  |  _  | ___ \ ___ \  __ \ |  \/  | / _ \ | | / /|  ___| ___ \
-| .  . || .  . | | | | |_/ / |_/ / |  \/ | .  . |/ /_\ \| |/ / | |__ | |_/ /
-| |\/| || |\/| | | | |    /|  __/| | __  | |\/| ||  _  ||    \ |  __||    / 
-| |  | || |  | \ \_/ / |\ \| |   | |_\ \ | |  | || | | || |\  \| |___| |\ \ 
-\_|  |_/\_|  |_/\___/\_| \_\_|    \____/ \_|  |_/\_| |_/\_| \_/\____/\_| \_|
+___  ______  ____________________ _____  ___  ___  ___   _   __ ___________            _____ _   _  _     _____ _   _  _____ 
+|  \/  ||  \/  |  _  | ___ \ ___ \  __ \ |  \/  | / _ \ | | / /|  ___| ___ \          |  _  | \ | || |   |_   _| \ | ||  ___|
+| .  . || .  . | | | | |_/ / |_/ / |  \/ | .  . |/ /_\ \| |/ / | |__ | |_/ /  ______  | | | |  \| || |     | | |  \| || |__  
+| |\/| || |\/| | | | |    /|  __/| | __  | |\/| ||  _  ||    \ |  __||    /  |______| | | | | . ` || |     | | | . ` ||  __| 
+| |  | || |  | \ \_/ / |\ \| |   | |_\ \ | |  | || | | || |\  \| |___| |\ \           \ \_/ / |\  || |_____| |_| |\  || |___ 
+\_|  |_/\_|  |_/\___/\_| \_\_|    \____/ \_|  |_/\_| |_/\_| \_/\____/\_| \_|           \___/\_| \_/\_____/\___/\_| \_/\____/
 ```
 
-#🎮 (MMO)RPG Maker MV/MZ Toolkit
+##🎮 (MMO)RPG Maker MV/MZ Toolkit
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@Tendev2d)
 [![Discord](https://img.shields.io/discord/1346822805576220755?label=discord&logo=discord&color=5865F2)](https://discord.gg/ekkdGH2RxK)
@@ -33,12 +33,6 @@ ___  ______  ____________________ _____  ___  ___  ___   _   __ ___________
 ## 📖 Summary
 
 This toolkit enables you to turn your single-player RPG Maker MV/MZ game into a **massively multiplayer experience**. Designed with scalability, modularity, and ease-of-use in mind.
-
----
-
-## 📜 History
-
-Originally created as a side project to explore WebSockets in games, this toolkit evolved into a full-featured MMO engine for RPG Maker MV/MZ. Community contributions and feedback have helped shape the current version.
 
 ---
 
@@ -68,14 +62,6 @@ Ready to play? Test the toolkit’s power in action:
 
 ---
 
-## 🖼 Screenshots
-
-| Login Screen | Gameplay |
-|--------------|----------|
-| ![Login](https://via.placeholder.com/300x200?text=Login+Screen) | ![Game](https://via.placeholder.com/300x200?text=In-Game) |
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! 🛠 Here's how:
@@ -87,21 +73,6 @@ Contributions welcome! 🛠 Here's how:
 5. Open a pull request
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more details.
-
----
-
-## 🪪 License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🌐 Social Media
-
-📣 Stay connected and join our community:  
-- 💬 **Discord**: [Join Server](https://discord.gg/ekkdGH2RxK)  
-- 📺 **YouTube**: [My Channel](https://youtube.com/@Tendev2d)
 
 ---
 
