@@ -23,14 +23,10 @@ ___  ______  ____________________ _____  ___  ___  ___   _   __ ___________
 ## 📚 Table of Contents
 
 - [📖 Summary](#-summary)
-- [📜 History](#-history)
 - [✨ Features](#-features)
-- [🎥 How to Use](#-how-to-use)
 - [🧪 Demo](#-demo)
 - [🖼 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
-- [🪪 License](#-license)
-- [🌐 Social Media](#-social-media)
 
 ---
 
