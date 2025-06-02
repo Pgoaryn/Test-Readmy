@@ -23,7 +23,7 @@
 ## 📚 Table of Contents
 
 - [📖 Summary](#-summary)
-- [✨ Features](#-features)
+- [✨ Current functionalities](#-current-functionalities)
 - [🧪 Demo](#-demo)
 - [🖼 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
@@ -36,14 +36,12 @@ This toolkit enables you to turn your single-player RPG Maker MV/MZ game into a 
 
 ---
 
-## ✨ Features
+## ✨ Current functionality
 
 - ✅ User Authentication (Login / Logout)  
-- 🗺️ Room-based Networking  
-- 💬 Real-time Chat System  
-- 🔄 Seamless Map Transitions  
-- 💾 Persistent Character Data  
-- 🖥️ Cross-platform support (Windows/Linux/Mac)
+- 💬 Real-time Chat System  (Soon)
+- Persistent event data between console
+- 💾 Auto-save character's data
 
 ---
 
