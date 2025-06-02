@@ -87,7 +87,7 @@ Ready to play? Test the toolkit’s power in action:
 
 Contributions welcome! 🛠 Here's how:
 
-1. Fork this repository  
+1. CLone this repository  
 2. Create a new branch: `git checkout -b my-feature`  
 3. Commit your changes: `git commit -m "Add new feature"`  
 4. Push to your branch: `git push origin my-feature`  
