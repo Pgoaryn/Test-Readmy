@@ -11,9 +11,6 @@ ___  ______  ____________________ _____  ___  ___  ___   _   __ ___________
 \_|  |_/\_|  |_/\___/\_| \_\_|    \____/ \_|  |_/\_| |_/\_| \_/\____/\_| \_|
 ```
 
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
-![MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
-
 #🎮 (MMO)RPG Maker MV/MZ Toolkit
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@Tendev2d)
@@ -87,7 +84,7 @@ Ready to play? Test the toolkit’s power in action:
 
 Contributions welcome! 🛠 Here's how:
 
-1. CLone this repository  
+1. Clone this repository  
 2. Create a new branch: `git checkout -b my-feature`  
 3. Commit your changes: `git commit -m "Add new feature"`  
 4. Push to your branch: `git push origin my-feature`  
